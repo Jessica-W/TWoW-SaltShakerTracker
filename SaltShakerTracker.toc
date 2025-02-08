@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: SaltShakerTracker
+## Notes: Tracks the Salt Shaker cooldown
+## Author: Jessica Wyatt
+## Version: 0.0.1
+## SavedVariables: SaltShakerCooldown
+
+SaltShakerTracker.lua
+SaltShakerTracker.xml
